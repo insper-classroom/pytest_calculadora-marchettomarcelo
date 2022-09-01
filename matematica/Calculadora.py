@@ -40,8 +40,3 @@ def media_lista_valores(v: list):
             lista_limpa.append(i)
 
     return np.mean(lista_limpa)
-
-
-# test with pyt soma(1, 2)
-x = soma(4, 6)
-print(x)
